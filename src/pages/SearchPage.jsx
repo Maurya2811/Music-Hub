@@ -34,7 +34,7 @@ const togglePlayer =(flag,songarg)=>{
   </>
    return (
      <div className="container">
-        <h1 className="alert alert-info text-center">Music Store</h1>
+        <h1 className="alert alert-info text-center">Music Hub</h1>
       
         {flag ? <Player fn={togglePlayer} song={song}/> :jsx }
       
