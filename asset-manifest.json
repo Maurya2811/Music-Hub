@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Music-Hub/static/css/main.073c9b0a.css",
+    "main.js": "/Music-Hub/static/js/main.d9b942e3.js",
+    "static/js/787.57879bd2.chunk.js": "/Music-Hub/static/js/787.57879bd2.chunk.js",
+    "index.html": "/Music-Hub/index.html",
+    "main.073c9b0a.css.map": "/Music-Hub/static/css/main.073c9b0a.css.map",
+    "main.d9b942e3.js.map": "/Music-Hub/static/js/main.d9b942e3.js.map",
+    "787.57879bd2.chunk.js.map": "/Music-Hub/static/js/787.57879bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d9b942e3.js"
+  ]
+}
